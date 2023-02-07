@@ -1,5 +1,5 @@
 # action.yml
-name: 'AWS Elastic Beanstalk cli'
+name: 'AWS EB cli'
 
 author: dunada
 
